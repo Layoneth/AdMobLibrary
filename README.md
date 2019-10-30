@@ -6,6 +6,9 @@ El proyecto consiste de la app y su librería "admoblibrary2", para usar la libr
 View v = new AdMobGame(this);
 setContentView(v);
 ```
+Este código ya se encuentra agregado en el MainActiviy.java del paquete de la app.
+
+Sólo debes descargar, abrir el proyecto en el IDE y ejecutarlo, ahí te divertirás con este básico juego :D.
 
 Los archivos AAR estan donde muestra la imagen de abajo.
 
@@ -24,6 +27,8 @@ Mi idea fue hacer una librería que al implementarse generara ese mini juego don
 Estos puntos se ven reflejados en el Label de coins.
 
 El banner aparece automáticamente en la parte inferior del View y no da puntos.
+
+Cabe resaltar que cada vez que el método show() de cada Ad se ejecuta aparece un mensaje flotante en la pantalla que te avisa cuando fue ejecutado este método.
 
 Intenté aplicar los test unitarios pero al crear una UI intenté aplicar test de UI a la interfaz de la librería pero no he encontrado la forma de hacerlo. Si saben como se hacer hacermelo saber por favor.
 
