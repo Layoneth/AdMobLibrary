@@ -23,6 +23,8 @@ Mi idea fue hacer una librería que al implementarse generara ese mini juego don
 
 Estos puntos se ven reflejados en el Label de coins.
 
+El banner aparece automáticamente en la parte inferior del View y no da puntos.
+
 Intenté aplicar los test unitarios pero al crear una UI intenté aplicar test de UI a la interfaz de la librería pero no he encontrado la forma de hacerlo. Si saben como se hacer hacermelo saber por favor.
 
 Quedo al tanto de sus comentarios y me divertí mucho realizando su prueba!.
