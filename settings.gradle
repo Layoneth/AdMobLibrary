@@ -1,0 +1,2 @@
+include ':app', ':admoblibrary2'
+rootProject.name='AdMobLibrary'
