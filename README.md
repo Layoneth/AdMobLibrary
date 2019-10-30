@@ -7,7 +7,9 @@ View v = new AdMobGame(this);
 setContentView(v);
 ```
 
-![Alt text](AdMobLibrary/HOla.jpg?raw=true "Title")
+Los archivos AAR estan donde muestra la imagen de abajo.
+
+![Alt text](https://github.com/Layoneth/AdMobLibrary/blob/master/HOla.png)
         
 ## Getting Started
 
