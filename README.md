@@ -13,9 +13,21 @@ Los archivos AAR estan donde muestra la imagen de abajo.
         
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Al insertar las líneas de código mencionadas anteriormente podrás ver una interfaz como esta...
 
+![Alt text](https://github.com/Layoneth/AdMobLibrary/blob/master/movil.png)
 
+Al oprimir el botón azul aparecerá el intersticial video y al oprimir el botón verde aparecerá el video bonificado.
+
+Mi idea fue hacer una librería que al implementarse generara ese mini juego donde por ver el interticial video gane 5 puntos, por ver incompleto el video bonificado gane 1 punto y al verlo completo gane 6 puntos.
+
+Estos puntos se ven reflejados en el Label de coins.
+
+Intenté aplicar los test unitarios pero al crear una UI intenté aplicar test de UI a la interfaz de la librería pero no he encontrado la forma de hacerlo. Si saben como se hacer hacermelo saber por favor.
+
+Quedo al tanto de sus comentarios y me divertí mucho realizando su prueba!.
+
+¡Saludos!
 
 ## License
 
