@@ -7,7 +7,7 @@ View v = new AdMobGame(this);
 setContentView(v);
 ```
 
-
+![Alt text](AdMobLibrary/img.jpg?raw=true "Title")
         
 ## Getting Started
 
